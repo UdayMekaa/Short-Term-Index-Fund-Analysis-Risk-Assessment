@@ -58,14 +58,7 @@ It combines **historical performance analysis**, **time series forecasting**, an
 
 ## 📈 Sample Visuals
 
-### 30-Day Moving Average
-![Moving Average Plot](images/moving_average.png)
-
-### Volatility Comparison
-![Volatility Chart](images/volatility.png)
-
-### Forecast Example
-![Forecast Plot](images/forecast.png)
+![Visualizations](https://github.com/UdayMekaa/Short-Term-Index-Fund-Analysis-Risk-Assessment/blob/cb81e7f0a0055efa9934d09b213e48b2a0d29d51/Visualization.pdf)
 
 ---
 
