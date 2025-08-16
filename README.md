@@ -1,4 +1,4 @@
-# Short-Term Index Fund Forecasting & Risk Analysis
+# Short-Term Stock Fund Forecasting & Risk Analysis
 
 This project analyzes over **50 years of global stock index data** to identify the most promising short-term investment opportunities.  
 It combines **historical performance analysis**, **time series forecasting**, and **risk assessment** to support data-driven fund selection.
